@@ -1,4 +1,4 @@
-﻿string personName = "";
+﻿string personName;
 byte personAge;
 string personJob;
 byte personZodiacSignId;
