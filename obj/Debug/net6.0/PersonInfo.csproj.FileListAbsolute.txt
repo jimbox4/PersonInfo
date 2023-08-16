@@ -1,0 +1,15 @@
+D:\VS_Projects\PersonInfo\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+D:\VS_Projects\PersonInfo\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+D:\VS_Projects\PersonInfo\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+D:\VS_Projects\PersonInfo\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+D:\VS_Projects\PersonInfo\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+D:\VS_Projects\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.AssemblyReference.cache
+D:\VS_Projects\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Projects\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+D:\VS_Projects\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+D:\VS_Projects\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+D:\VS_Projects\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+D:\VS_Projects\PersonInfo\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+D:\VS_Projects\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+D:\VS_Projects\PersonInfo\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+D:\VS_Projects\PersonInfo\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll
